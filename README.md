@@ -11,7 +11,7 @@ Simple example with:
 ## Add to Terrafile
 
 ```ruby
-mod "network", source: "boltops-tools/terraform-azure-network/aws"
+mod "network", source: "boltops-tools/network/azure"
 ```
 
 ## Import Example
