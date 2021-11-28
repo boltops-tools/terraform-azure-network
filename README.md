@@ -31,3 +31,8 @@ mod "network", source: "boltops-tools/terraform-azure-network/aws"
 
     terraspace down network
 
+## Terraspace Project Example
+
+See:
+
+* GitHub: [boltops-learn/terraspace-azure-network](https://github.com/boltops-learn/terraspace-azure-network)
