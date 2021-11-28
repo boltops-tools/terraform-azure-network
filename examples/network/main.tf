@@ -1,5 +1,5 @@
 module "vnet" {
-  source = "../../modules/network"
+  source = "../.."
 
   resource_group_name = var.resource_group_name
   vnet_name           = var.vnet_name
