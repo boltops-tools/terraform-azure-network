@@ -2,7 +2,7 @@
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
-Creates Azure Network:
+Creates Azure Network.
 
 ## More Info
 
