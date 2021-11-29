@@ -17,7 +17,7 @@ mod "network", source: "boltops-tools/network/azure"
 ## Import Example
 
     terraspace bundle # installs to vendor/modules/network
-    terraspace bundle example network # imports to app/stacks/network
+    terraspace bundle example network network # imports to app/stacks/network
 
 ## Configure Tfvars
 
@@ -36,3 +36,9 @@ mod "network", source: "boltops-tools/network/azure"
 See:
 
 * GitHub: [boltops-learn/terraspace-azure-network](https://github.com/boltops-learn/terraspace-azure-network)
+
+## Video
+
+[![Watch the video](https://uploads-learn.boltops.com/7p5wdi7y363gpt4zi9t6dpiwbn1f)](https://learn.boltops.com/courses/terraspace-azure/lessons/terraspace-azure-network)
+
+Note: Premium video content requires a subscription.
